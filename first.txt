@@ -1,1 +1,2 @@
 Hello Git
+<!-- Add by son.nv (son.nv@border.jp)-->
